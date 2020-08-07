@@ -1,6 +1,52 @@
 # LeetCode Problems
 
-## Amazon
+##Frequent Problems by topics // 21
+
+### Array
+
+### Hash Table
+
+### Linked List
+
+### Math
+
+### Two Pointers
+
+### String
+
+### Binary Search
+
+### Divide and Conquer
+
+### Dynamic Programming
+
+### Backtracking
+
+### Stack
+
+### Heap
+
+### Greedy
+
+### Sort
+
+### Bit Manipulation
+
+### Tree
+
+### Depth-first Search
+
+### Breadth-first Search
+
+### Union Find
+
+### Graph
+
+### Design
+
+##Frequent Problems by Companies
+
+### Amazon
 
 1. No937 Reorder Data in Log Files
 2. No200 Number of Islands
@@ -15,3 +61,24 @@
 11. No588 Design In-Memory File System
 12. No472 Concatenated Words
 
+### Google
+
+### Goldman Sachs
+
+### Microsoft
+
+### LinkedIn
+
+### FaceBook
+
+### Adobe
+
+### Bloomberg
+
+### Morgan Stanley
+
+### SAP
+
+### Uber
+
+### Airbnb

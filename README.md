@@ -9,4 +9,4 @@
 5. No763 Partition Labels
 6. No692 Top K Frequent Words
 7. No819 Most Common Word
-8.
+8. No146 Least Recently Used (LRU) cache

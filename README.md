@@ -4,6 +4,18 @@
 
 ### Array
 
+1. No1 Two Sum
+2. No42 Trapping Rain Water
+3. No4 Median of Two Sorted Arrays
+4. No53 Maximum Subarray
+5. No238 Product of Array Except Self
+6. No56 Merge Intervals
+7. No121 Best Time to Buy and Sell Stock
+8. No560 Subarray Sum Equals K
+9. No15 3Sum
+10. No31 Next Permutation
+11. No11 Container With Most Water
+
 ### Hash Table
 
 ### Linked List

@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-##Frequent Problems by topics // 21
+## Frequent Problems by topics // 21
 
 ### Array
 
@@ -56,7 +56,7 @@
 
 ### Design
 
-##Frequent Problems by Companies
+## Frequent Problems by Companies
 
 ### Amazon
 

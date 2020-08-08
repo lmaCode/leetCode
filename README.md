@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-## Frequent Problems by topics // 21
+## Frequent Problems by Topics // 21
 
 ### Array
 

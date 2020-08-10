@@ -1,4 +1,4 @@
-class Solution {
+class Solution {//O(nlog⁡n) O(1) ||O(n) 
   public int[][] merge(int[][] intervals) {
     Collections.sort(Arrays.asList(intervals), (i1,i2)->{
         return i1[0]<i2[0]?-1:i1[0]==i2[0]?0:1;

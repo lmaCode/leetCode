@@ -1,4 +1,4 @@
-public class Solution {//O(n) O(1)
+public class Solution {//O(n) O(1)  Brute Force n!
     public void nextPermutation(int[] nums) {
         int i = nums.length - 2;
         while (i >= 0 && nums[i + 1] <= nums[i]) {

@@ -18,6 +18,19 @@
 
 ### Hash Table
 
+1. No1 Two Sum
+2. No3 Longest Substring Withoud Repeating Characters
+3. No953 Verifying an Alien Dictionary
+4. No560 Subarray Sum Equals K
+5. No692 Top K Frequent Words
+6. No76 Minimus Window Substring
+7. No85 Maximal Rectangle
+8. No380 Insert Delete GetRandom O(1)
+9. No49 Group Anagrams
+10. No981 Time Based Key-Value Store
+11. No138 Copy List with Random Pointer
+12. No706 Design HashMap
+
 ### Linked List
 
 ### Math

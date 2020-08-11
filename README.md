@@ -33,6 +33,9 @@
 
 ### Linked List
 
+1. No2 Add Two Numbers
+2. No206 Reverse Linked List
+
 ### Math
 
 ### Two Pointers

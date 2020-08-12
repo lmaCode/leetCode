@@ -28,8 +28,7 @@ class Solution {
         Map<Character, Integer> windowCounts = new HashMap<Character, Integer>();  
         int[] ans = {-1, 0, 0};
 
-        // Look for the characters only in the filtered list instead of entire s.
-        // This helps to reduce our search.
+        // Look for the characters only in the filtered list instead of entire s. This helps to reduce our search.
         // Hence, we follow the sliding window approach on as small list.
         while (r < filteredS.size()) {
             char c = filteredS.get(r).getValue();

@@ -40,6 +40,10 @@
 
 ### Two Pointers
 
+1. No763 Partition Labels
+2. No76 Minimum Window Substring
+3. No88 Merge Sorted Array
+
 ### String
 
 ### Binary Search

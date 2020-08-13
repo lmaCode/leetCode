@@ -52,7 +52,11 @@
 
 ### Dynamic Programming
 
+1. No5 Longest Palindromic Substring
+
 ### Backtracking
+
+1. No22 Generate Parentheses
 
 ### Stack
 

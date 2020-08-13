@@ -1,4 +1,4 @@
-class Solution {
+class Solution {//https://www.cnblogs.com/fanguangdexiaoyuer/p/11224426.html
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList();
         backtrack(ans, "", 0, 0, n);

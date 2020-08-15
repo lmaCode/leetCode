@@ -120,3 +120,22 @@
 ### Uber
 
 ### Airbnb
+
+### Cisco OA
+
+1. Bit Set + + +//
+2. Word Search + + + + word Search II 
+3. Birthday +(count odd number in a list + + +)
+4. Prime and Composite + +// + 204 Count Primes
+5. chocolate jails。参考leetcode 198 house robber  + + + maximum chocolate这道题一定要one pass, 边读边做，不要读完了存在数组里再做，这样会有test case过不去 (负数)
+6. intput n, output char[n][n] 'W''B'交错的array（易）+ + + + + 
+7. Decode Ways(91+ 394) + + + + + + + + +
+8. mean and mode + +  找most freq number和平均数。
+10. print chessboard pattern (Queen Attack ++)+ + + queen attack, 给x1, y1, x2, y2 判断是否在一条线上（水平，竖直，对角线）
+11. Maximus Difference +
+12. read in array of numbers and determien array length + +
+13. rotate matrix (48)+ +
+14. 判断输出内有多少个数字 +
+15. 918. Maximum Sum Circular Subarray (53)
+16. IPV4
+

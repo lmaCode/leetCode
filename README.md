@@ -70,6 +70,8 @@
 
 ### Bit Manipulation
 
+1. No393 UTF-8 Validation
+
 ### Tree
 
 ### Depth-first Search

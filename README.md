@@ -103,9 +103,15 @@
 
 ### Google
 
+//TODO
+
 ### Goldman Sachs
 
+//TODO
+
 ### Microsoft
+
+//TODO
 
 ### LinkedIn
 
@@ -117,7 +123,21 @@
 
 ### Morgan Stanley
 
+//TODO
+
 ### SAP
+
+### Snap
+
+//TODO
+
+### Robinhood
+
+//TODO
+
+### Databricks
+
+//TODO
 
 ### Uber
 
